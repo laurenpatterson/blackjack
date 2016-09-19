@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>blackjack</name>
+	<name>Blackjack</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>mysql-connector-java-5.1.38</name>
+			<type>2</type>
+			<location>C:/Users/4leaf/Downloads/mysql-connector-java-5.1.38</location>
+		</link>
+	</linkedResources>
 </projectDescription>
